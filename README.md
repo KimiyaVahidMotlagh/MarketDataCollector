@@ -7,7 +7,7 @@ news articles sourced from Google News. The aim is to create a comprehensive dat
 - [Technologies](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#technologies)
 - [Setup](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#setup)
 - [Features](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#features)
-- [Status]()
+- [Status](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#status)
 
 # General Info
 The dataset created by this project combines financial trading data (including open, high, low, close prices, and volume) with related news headlines. This unique combination of data aims to provide a deeper understanding of market trends and the impact of news events on financial markets.

@@ -6,7 +6,7 @@ news articles sourced from Google News. The aim is to create a comprehensive dat
 - [General Info](https://github.com/KimiyaVahidMotlagh/MarketDataCollector#general-info)
 - [Technologies](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#technologies)
 - [Setup](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#setup)
-- [Features]()
+- [Features](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#features)
 - [Status]()
 
 # General Info

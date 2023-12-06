@@ -3,7 +3,7 @@ This project is focused on the collection and analysis of financial data from va
 news articles sourced from Google News. The aim is to create a comprehensive dataset for analysis that includes financial indicators and news insights.
 
 # Table of Contents
-- [General Info]()
+- [General Info](https://github.com/KimiyaVahidMotlagh/MarketDataCollector#general-info)
 - [Technologies]()
 - [Setup]()
 - [Features]()

@@ -5,7 +5,6 @@ news articles sourced from Google News. The aim is to create a comprehensive dat
 # Table of Contents
 - [General Info](https://github.com/KimiyaVahidMotlagh/MarketDataCollector#general-info)
 - [Technologies](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#technologies)
-- [Setup](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#setup)
 - [Features](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#features)
 - [Status](https://github.com/KimiyaVahidMotlagh/MarketDataCollector/blob/main/README.md#status)
 
@@ -20,13 +19,6 @@ yfinance library<br/>
 pandas library<br/>
 BeautifulSoup library<br/>
 
-# Setup
-To run this project, install it locally using pip:
-````
-$ cd ../your-directory
-$ pip install -r requirements.txt
-$ python financial_data_analysis.py
-````
 # Features
 List of features ready and TODOs for future development: <br/>
 Collection of financial data for gold, crude oil, and the dollar index. <br/>

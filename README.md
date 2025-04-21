@@ -18,6 +18,7 @@ Python version: 3.x<br/>
 yfinance library<br/>
 pandas library<br/>
 BeautifulSoup library<br/>
+Tensorflow library(RNN, GRU, LSTM, BiLSTM)<br/>
 
 # Features
 List of features ready and TODOs for future development: <br/>
